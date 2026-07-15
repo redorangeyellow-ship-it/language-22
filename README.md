@@ -1,17 +1,15 @@
 ## language-22
 
 Language check European in: 
+
 English
 Spanish
 French
 German
 Italian
 Portuguese
-Indonesian
-Malay
 Turkish
 Polish
-Vietnamese
 Swedish
 Croatian
 Czech
@@ -23,3 +21,6 @@ Ukrainian
 Greek
 Romanian
 Hungarian
+Bulgarian
+Lithuanian
+Estonian
